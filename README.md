@@ -5,11 +5,7 @@
 - 🌱 Atualmente, estou estudando Desenvolvimento Web. Como ainda não escolhi em quais tecnologias quero me <br>
      aprofundar, venho conhecendo várias Stacks, tanto front-end quanto back-end;
 - ✍️ Para saber com mais detalhes algumas tecnologias que estou estudando ou já estudei, acesse meu perfil na Alura:<br>
-      https://cursos.alura.com.br/user/mateus-martins18 
-- 👯 Se você tem um projeto Open-Source no qual eu possa contribuir, entre em contato e me conte sobre; 
-- ⚡ Curiosidades:
-  - 👶 Nasci aos 7.5 meses de gestação e não precisei ficar internado no hospital (Apressado? Talvez! hahah);
-  - 🥁 Baterista da Banda Vovó Piluca (@vovopilucaoficial);
+      https://cursos.alura.com.br/user/mateus-martins18
 
 <div align="center">
   <a href="https://github.com/Marttins23">
