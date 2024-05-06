@@ -1,17 +1,4 @@
-### Hello, World! Meu nome é Mateus Ferreira 👋
-
-- 🎓 Estou Cursando Sistemas de Informação pela Universidade Federal de Ouro Preto (UFOP) - Campus João Monlevade.
-- 💻 Procurando Estágio na área de Desenvolvimento Web.
-- 🌱 Atualmente, estou estudando Desenvolvimento Web. Como ainda não escolhi em quais tecnologias quero me <br>
-     aprofundar, venho conhecendo várias Stacks, tanto front-end quanto back-end;
-- ✍️ Para saber com mais detalhes algumas tecnologias que estou estudando ou já estudei, acesse meu perfil na Alura:<br>
-      https://cursos.alura.com.br/user/mateus-martins18
-
-<div align="center">
-  <a href="https://github.com/Marttins23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marttins23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marttins23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 🎓 Cursando Sistemas de Informação pela Universidade Federal de Ouro Preto (UFOP) - Campus João Monlevade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marttins23-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +20,5 @@
   <a href="https://instagram.com/mateus_frr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus.martins@aluno.ufop.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mateus-ferreira-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/marttins23/marttins23/blob/output/github-contribution-grid-snake.svg)
  
 </div>
